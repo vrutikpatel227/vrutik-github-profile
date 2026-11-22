@@ -1,7 +1,7 @@
 
-<!-- ===================================================== -->
-<!--                 VRUTIK PATEL - README                  -->
-<!-- ===================================================== -->
+<!-- ================================================== -->
+<!--             VRUTIK PATEL | GITHUB README           -->
+<!-- ================================================== -->
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Computer+Vision+Enthusiast;Full+Stack+Development;AI+Automation+%26+Innovation" alt="Typing Animation"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/vrutikpatel227">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -43,7 +43,7 @@ Hey! I'm **Vrutik Patel**, an AI/ML student and Python developer passionate abou
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -112,82 +112,79 @@ Hey! I'm **Vrutik Patel**, an AI/ML student and Python developer passionate abou
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="left">
 
-### 🤖 Advanced GenAI Chatbot
+### 🤖 01. Advanced GenAI Chatbot
 
-Advanced GenAI customer service chatbot built with modular milestone-based development.
+An advanced GenAI customer service chatbot developed as an AI internship project with modular milestone-based development.
 
-**Technology:** Python
+**Technology:** `Python`
 
-<a href="https://github.com/vrutikpatel227/advanced-genai-chatbot">View Repository →</a>
+<a href="https://github.com/vrutikpatel227/advanced-genai-chatbot">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</td>
-<td width="50%">
+---
 
-### 👁️ Face Recognition Project
+### 👁️ 02. Face Recognition Project
 
-Computer vision project focused on face recognition.
+A computer vision project focused on face recognition using Python.
 
-**Technology:** Python
+**Technology:** `Python`
 
-<a href="https://github.com/vrutikpatel227/FaceRecognition-Project">View Repository →</a>
+<a href="https://github.com/vrutikpatel227/FaceRecognition-Project">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+### 🧠 03. RecommendAI
 
-### 🧠 RecommendAI
+An AI-related recommendation project built using Python.
 
-An AI-related recommendation project.
+**Technology:** `Python`
 
-**Technology:** Python
+<a href="https://github.com/vrutikpatel227/recommendai">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<a href="https://github.com/vrutikpatel227/recommendai">View Repository →</a>
+---
 
-</td>
-<td width="50%">
-
-### 🔍 Vision Agent AI
+### 🔍 04. Vision Agent AI
 
 An AI-focused project exploring vision-based applications.
 
-**Technology:** HTML
+**Technology:** `HTML`
 
-<a href="https://github.com/vrutikpatel227/visionagent-ai">View Repository →</a>
+<a href="https://github.com/vrutikpatel227/visionagent-ai">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
-
-### ⚡ Codefy Agent
+### ⚡ 05. Codefy Agent
 
 An agent-based application development project.
 
-**Technology:** HTML
+**Technology:** `HTML`
 
-<a href="https://github.com/vrutikpatel227/codefy-agent">View Repository →</a>
+<a href="https://github.com/vrutikpatel227/codefy-agent">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</td>
-<td width="50%">
+---
 
-### 📊 Server Monitor
+### 📊 06. Server Monitor
 
-Production-oriented website and API monitoring platform.
+A production-oriented website and API monitoring platform.
 
-**Technology:** TypeScript
+**Technology:** `TypeScript`
 
-<a href="https://github.com/vrutikpatel227/server-monitor">View Repository →</a>
+<a href="https://github.com/vrutikpatel227/server-monitor">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -229,11 +226,23 @@ Production-oriented website and API monitoring platform.
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
+
+<a href="https://github.com/vrutikpatel227">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:vrutik2302@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 ### ✨ BUILD · LEARN · INNOVATE
 
-**Thanks for visiting my GitHub profile!**
+Thanks for visiting my GitHub profile!
 
 *Keep learning. Keep building. Keep innovating.*
 
